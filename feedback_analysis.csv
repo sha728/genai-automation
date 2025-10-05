@@ -1,0 +1,21 @@
+customer_feedback,Sentiment,Issue Type,Summary
+The food was cold and took too long to arrive.,NEGATIVE,Food,The food was cold and took too long to arrive.
+Amazing service and very fast delivery!,POSITIVE,Delivery,Amazing service and very fast delivery!
+The app crashed while ordering.,NEGATIVE,App,The app crashed while ordering. It's unclear why the app crashed.
+Delivery person was polite but forgot my drink.,NEGATIVE,Delivery,The delivery person was polite but forgot my drink. He was supposed to bring me a
+"Loved the spicy chicken, it was perfect!",POSITIVE,Other,"Loved the spicy chicken, it was perfect!"
+The restaurant sent the wrong dish.,NEGATIVE,Other,The restaurant sent the wrong dish.
+App is very slow and often freezes.,NEGATIVE,App,App is very slow and often freezes. App is very fast and sometimes freezes.
+"Delivery was quick, and the driver was courteous.",POSITIVE,Delivery,"Delivery was quick, and the driver was courteous."
+"Food packaging was messy, some items spilled.",NEGATIVE,Food,". Food packaging was messy, some items spilled."
+"Great variety of options, very satisfied!",POSITIVE,Other,"Great variety of options, very satisfied with the choices."
+Delivery arrived 30 minutes late without any notification.,NEGATIVE,Delivery,Delivery arrived 30 minutes late without any notification.
+"The app suggested wrong dishes, confusing interface.",NEGATIVE,App,"The app suggested wrong dishes, confusing interface."
+"Driver called to confirm address, appreciated that!",POSITIVE,App,"Driver called to confirm address, appreciated that!"
+Food portion was too small for the price.,NEGATIVE,Food,Food portion was too small for the price.
+Excellent discounts and offers this week.,POSITIVE,Other,"This week's top deals include discounts on electronics, clothing and home goods."
+"Order was canceled without reason, very frustrating.",NEGATIVE,Other,""" Order was canceled without reason, very frustrating. Order was cancelled without reason"
+"Fresh and tasty food, loved the presentation.",POSITIVE,Food,"""Fresh and tasty food, loved the presentation,"" says reviewer."
+The payment failed multiple times on the app.,NEGATIVE,App,The payment failed multiple times on the app.
+Driver was friendly but took a longer route.,NEGATIVE,Other,Driver was friendly but took a longer route.
+"App notifications are inconsistent, sometimes delayed.",NEGATIVE,App,"App notifications are inconsistent, sometimes delayed. App notifications can be inconsistent,sometimes delayed."
